@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HoJun Jayce Choi
 
 - 📫 How to reach me ...
-  1. chj5233@hanyang.ac.kr 
+  1. hojun.choi@ucdenver.edu
   2. chj5233@gmail.com
 
 <!---
