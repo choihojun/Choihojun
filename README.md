@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HoJun Jayce Choi
+- 👋 Hi, I’m @HoJun Choi
 
 - 📫 How to reach me ...
   1. hchoi8@unl.edu
