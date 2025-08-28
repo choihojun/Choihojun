@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HoJun Choi
+- 👋 Hi, I’m @HoJun Choi, and I am a computer science PhD student at the University of Nebraska-Lincoln
 
 - 📫 How to reach me ...
   1. hchoi8@unl.edu
